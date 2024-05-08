@@ -1,5 +1,5 @@
 # Name-Based-Gender-Classification
-Sure! Here's a description you can use for your GitHub project:
+The link of google colab- https://colab.research.google.com/drive/1yOjboKgrE9bzFwbsw7VUJX9CycptqpDO?usp=sharing
 
 ---
 
@@ -40,11 +40,5 @@ This project aims to predict the gender associated with a given name using machi
 ### Contribution Guidelines:
 
 Contributions, issues, and feature requests are welcome! Feel free to raise a PR or open an issue for any improvements or suggestions.
-
-### Credits:
-
-This project was created by [Your Name] as a final year project for [Your Degree] at [Your Institution].
-
----
 
 Feel free to customize this description according to your project's specifics and your preferences. Let me know if you need further assistance!
