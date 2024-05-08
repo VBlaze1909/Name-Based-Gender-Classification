@@ -1,5 +1,5 @@
 # Name-Based-Gender-Classification
-The link of google colab- https://colab.research.google.com/drive/1yOjboKgrE9bzFwbsw7VUJX9CycptqpDO?usp=sharing
+The link of google colab- 
 
 ---
 
